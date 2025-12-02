@@ -1,1 +1,3 @@
-# advent-of-code-2026
+# Advent of Code 2025
+
+Only 12 days, really?!
